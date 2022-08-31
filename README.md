@@ -1,4 +1,4 @@
-# Data-Structure-C
+# Data-Structures-C
 Some Data Structure using c
 ### steps : 
 1- install the gcc compiler.<br>
