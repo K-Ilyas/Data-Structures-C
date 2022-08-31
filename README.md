@@ -3,7 +3,7 @@ Some Data Structure using c
 ### steps : 
 1- install the gcc compiler.<br>
 2- change the directory to the appropriate one.<br>
-you can run the programme CodeBlocks or manually in the CMD. 
+you can run the programme in Code::Blocks or manually in the CMD. 
 #### To compile the c program type the following command: 
 ###### gcc *.c -o prog
 #### To run the c program, type the following command :
